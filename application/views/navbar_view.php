@@ -30,9 +30,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="#">Perfiles usuario</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Materiales</a>
+          <a class="dropdown-item" href="<?php echo site_url('Materiales');?>">Materiales</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Consultas</a>
+          <a class="dropdown-item" href="">Consultas</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="<?php echo site_url('Autores');?>">Ingresar Autor</a>
         </div>
       </li>
     </ul>

@@ -209,7 +209,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id_usuarios`, `nombres`, `apellidos`, `documento`, `direccion`, `telefono`, `email`, `password`, `informacion`, `tipo_documento_id`, `tipo_usuario_id`) VALUES
-(1, 'Andres Camilo', 'Gil Serna', '70330434', 'Circular 2 # 74-16', '3207160022', 'acgilserna@gmail.com', '29424c2d535db69da6778b17637c97205bca699f', 'Primer usuario del sistema', 1, 4);
+(1, 'Andres Camilo', 'Gil Serna', '70330434', 'Circular 2 # 74-16', '3207160022', 'acgilserna@gmail.com', ' f865b53623b121fd34ee5426c792e5c33af8c227', 'Primer usuario del sistema', 1, 4);
 
 -- --------------------------------------------------------
 
