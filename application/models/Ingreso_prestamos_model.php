@@ -1,16 +1,16 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Ingreso_reservas_model extends CI_Model {
+class Ingreso_prestamos_model extends CI_Model {
 
     public function __construct() {
         parent::__construct();
 
     }
 
-    public function ingreso_reserva($data) {
+    public function ingreso_prestamos($data) {
 
               
-        $this->db->insert('reservas',$data);
+        $this->db->insert('prestamos',$data);
 
     }
      

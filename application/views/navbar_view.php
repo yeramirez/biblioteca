@@ -15,7 +15,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="<?php echo site_url('Prestamos');?>">Prestamos <span class="sr-only">(current)</span></a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Reservas</a>
+          <a class="dropdown-item" href="<?php echo site_url('Reservas');?>">Reservas</a>
         </div>
       </li>
       <li class="nav-item">
