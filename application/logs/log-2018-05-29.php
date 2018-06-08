@@ -7643,3 +7643,592 @@ INFO - 2018-05-29 19:22:14 --> File loaded: /var/www/biblioteca/application/view
 INFO - 2018-05-29 19:22:14 --> File loaded: /var/www/biblioteca/application/views/footer.php
 INFO - 2018-05-29 19:22:14 --> Final output sent to browser
 DEBUG - 2018-05-29 19:22:14 --> Total execution time: 0.0038
+INFO - 2018-05-29 19:26:27 --> Config Class Initialized
+INFO - 2018-05-29 19:26:27 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:26:27 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:26:27 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:26:27 --> URI Class Initialized
+INFO - 2018-05-29 19:26:27 --> Router Class Initialized
+INFO - 2018-05-29 19:26:27 --> Output Class Initialized
+INFO - 2018-05-29 19:26:27 --> Security Class Initialized
+DEBUG - 2018-05-29 19:26:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:26:27 --> Input Class Initialized
+INFO - 2018-05-29 19:26:27 --> Language Class Initialized
+INFO - 2018-05-29 19:26:27 --> Loader Class Initialized
+INFO - 2018-05-29 19:26:27 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:26:27 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:26:27 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:26:27 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:26:27 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:26:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:26:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:26:27 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:26:27 --> Controller Class Initialized
+INFO - 2018-05-29 19:26:27 --> Model Class Initialized
+INFO - 2018-05-29 19:26:27 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:26:27 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:26:27 --> File loaded: /var/www/biblioteca/application/views/autores_view.php
+INFO - 2018-05-29 19:26:27 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:26:27 --> Final output sent to browser
+DEBUG - 2018-05-29 19:26:27 --> Total execution time: 0.0033
+INFO - 2018-05-29 19:26:30 --> Config Class Initialized
+INFO - 2018-05-29 19:26:30 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:26:30 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:26:30 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:26:30 --> URI Class Initialized
+INFO - 2018-05-29 19:26:30 --> Router Class Initialized
+INFO - 2018-05-29 19:26:30 --> Output Class Initialized
+INFO - 2018-05-29 19:26:30 --> Security Class Initialized
+DEBUG - 2018-05-29 19:26:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:26:30 --> Input Class Initialized
+INFO - 2018-05-29 19:26:30 --> Language Class Initialized
+INFO - 2018-05-29 19:26:30 --> Loader Class Initialized
+INFO - 2018-05-29 19:26:30 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:26:30 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:26:30 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:26:30 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:26:30 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:26:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:26:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:26:30 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:26:30 --> Controller Class Initialized
+INFO - 2018-05-29 19:26:30 --> Model Class Initialized
+INFO - 2018-05-29 19:26:30 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:26:30 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:26:30 --> File loaded: /var/www/biblioteca/application/views/autores_view.php
+INFO - 2018-05-29 19:26:30 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:26:30 --> Final output sent to browser
+DEBUG - 2018-05-29 19:26:30 --> Total execution time: 0.0034
+INFO - 2018-05-29 19:26:33 --> Config Class Initialized
+INFO - 2018-05-29 19:26:33 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:26:33 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:26:33 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:26:33 --> URI Class Initialized
+INFO - 2018-05-29 19:26:33 --> Router Class Initialized
+INFO - 2018-05-29 19:26:33 --> Output Class Initialized
+INFO - 2018-05-29 19:26:33 --> Security Class Initialized
+DEBUG - 2018-05-29 19:26:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:26:33 --> Input Class Initialized
+INFO - 2018-05-29 19:26:33 --> Language Class Initialized
+INFO - 2018-05-29 19:26:33 --> Loader Class Initialized
+INFO - 2018-05-29 19:26:33 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:26:33 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:26:33 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:26:33 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:26:33 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:26:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:26:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:26:33 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:26:33 --> Controller Class Initialized
+INFO - 2018-05-29 19:26:33 --> Model Class Initialized
+INFO - 2018-05-29 19:26:33 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:26:33 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:26:33 --> File loaded: /var/www/biblioteca/application/views/autores_view.php
+INFO - 2018-05-29 19:26:33 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:26:33 --> Final output sent to browser
+DEBUG - 2018-05-29 19:26:33 --> Total execution time: 0.0027
+INFO - 2018-05-29 19:26:36 --> Config Class Initialized
+INFO - 2018-05-29 19:26:36 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:26:36 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:26:36 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:26:36 --> URI Class Initialized
+INFO - 2018-05-29 19:26:36 --> Router Class Initialized
+INFO - 2018-05-29 19:26:36 --> Output Class Initialized
+INFO - 2018-05-29 19:26:36 --> Security Class Initialized
+DEBUG - 2018-05-29 19:26:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:26:36 --> Input Class Initialized
+INFO - 2018-05-29 19:26:36 --> Language Class Initialized
+INFO - 2018-05-29 19:26:36 --> Loader Class Initialized
+INFO - 2018-05-29 19:26:36 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:26:36 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:26:36 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:26:36 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:26:36 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:26:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:26:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:26:36 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:26:36 --> Controller Class Initialized
+INFO - 2018-05-29 19:26:36 --> Model Class Initialized
+INFO - 2018-05-29 19:26:36 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:26:36 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:26:36 --> File loaded: /var/www/biblioteca/application/views/autores_view.php
+INFO - 2018-05-29 19:26:36 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:26:36 --> Final output sent to browser
+DEBUG - 2018-05-29 19:26:36 --> Total execution time: 0.0031
+INFO - 2018-05-29 19:26:37 --> Config Class Initialized
+INFO - 2018-05-29 19:26:37 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:26:37 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:26:37 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:26:37 --> URI Class Initialized
+INFO - 2018-05-29 19:26:37 --> Router Class Initialized
+INFO - 2018-05-29 19:26:37 --> Output Class Initialized
+INFO - 2018-05-29 19:26:37 --> Security Class Initialized
+DEBUG - 2018-05-29 19:26:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:26:37 --> Input Class Initialized
+INFO - 2018-05-29 19:26:37 --> Language Class Initialized
+INFO - 2018-05-29 19:26:37 --> Loader Class Initialized
+INFO - 2018-05-29 19:26:37 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:26:37 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:26:37 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:26:37 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:26:37 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:26:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:26:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:26:37 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:26:37 --> Controller Class Initialized
+INFO - 2018-05-29 19:26:37 --> Model Class Initialized
+INFO - 2018-05-29 19:26:37 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:26:37 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:26:37 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+INFO - 2018-05-29 19:26:37 --> File loaded: /var/www/biblioteca/application/views/Materiales_view.php
+INFO - 2018-05-29 19:26:37 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:26:37 --> Final output sent to browser
+DEBUG - 2018-05-29 19:26:37 --> Total execution time: 0.0350
+INFO - 2018-05-29 19:26:47 --> Config Class Initialized
+INFO - 2018-05-29 19:26:47 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:26:47 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:26:47 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:26:47 --> URI Class Initialized
+INFO - 2018-05-29 19:26:47 --> Router Class Initialized
+INFO - 2018-05-29 19:26:47 --> Output Class Initialized
+INFO - 2018-05-29 19:26:47 --> Security Class Initialized
+DEBUG - 2018-05-29 19:26:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:26:47 --> Input Class Initialized
+INFO - 2018-05-29 19:26:47 --> Language Class Initialized
+INFO - 2018-05-29 19:26:47 --> Loader Class Initialized
+INFO - 2018-05-29 19:26:47 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:26:47 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:26:47 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:26:47 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:26:47 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:26:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:26:47 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:26:47 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:26:47 --> Controller Class Initialized
+INFO - 2018-05-29 19:26:47 --> Model Class Initialized
+INFO - 2018-05-29 19:26:47 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:26:47 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:26:47 --> File loaded: /var/www/biblioteca/application/views/usuarios_view.php
+INFO - 2018-05-29 19:26:47 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:26:47 --> Final output sent to browser
+DEBUG - 2018-05-29 19:26:47 --> Total execution time: 0.0778
+INFO - 2018-05-29 19:27:18 --> Config Class Initialized
+INFO - 2018-05-29 19:27:18 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:27:18 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:27:18 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:27:18 --> URI Class Initialized
+INFO - 2018-05-29 19:27:18 --> Router Class Initialized
+INFO - 2018-05-29 19:27:18 --> Output Class Initialized
+INFO - 2018-05-29 19:27:18 --> Security Class Initialized
+DEBUG - 2018-05-29 19:27:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:27:18 --> Input Class Initialized
+INFO - 2018-05-29 19:27:18 --> Language Class Initialized
+INFO - 2018-05-29 19:27:18 --> Loader Class Initialized
+INFO - 2018-05-29 19:27:18 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:27:18 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:27:18 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:27:18 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:27:18 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:27:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:27:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:27:18 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:27:18 --> Controller Class Initialized
+INFO - 2018-05-29 19:27:18 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:27:18 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:27:18 --> File loaded: /var/www/biblioteca/application/views/home_view.php
+INFO - 2018-05-29 19:27:18 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:27:18 --> Final output sent to browser
+DEBUG - 2018-05-29 19:27:18 --> Total execution time: 0.0029
+INFO - 2018-05-29 19:28:22 --> Config Class Initialized
+INFO - 2018-05-29 19:28:22 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:28:22 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:28:22 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:28:22 --> URI Class Initialized
+INFO - 2018-05-29 19:28:22 --> Router Class Initialized
+INFO - 2018-05-29 19:28:22 --> Output Class Initialized
+INFO - 2018-05-29 19:28:22 --> Security Class Initialized
+DEBUG - 2018-05-29 19:28:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:28:22 --> Input Class Initialized
+INFO - 2018-05-29 19:28:22 --> Language Class Initialized
+INFO - 2018-05-29 19:28:22 --> Loader Class Initialized
+INFO - 2018-05-29 19:28:22 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:28:22 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:28:22 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:28:22 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:28:22 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:28:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:28:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:28:22 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:28:22 --> Controller Class Initialized
+INFO - 2018-05-29 19:28:22 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:28:22 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:28:22 --> File loaded: /var/www/biblioteca/application/views/home_view.php
+INFO - 2018-05-29 19:28:22 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:28:22 --> Final output sent to browser
+DEBUG - 2018-05-29 19:28:22 --> Total execution time: 0.0024
+INFO - 2018-05-29 19:28:23 --> Config Class Initialized
+INFO - 2018-05-29 19:28:23 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:28:23 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:28:23 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:28:23 --> URI Class Initialized
+INFO - 2018-05-29 19:28:23 --> Router Class Initialized
+INFO - 2018-05-29 19:28:23 --> Output Class Initialized
+INFO - 2018-05-29 19:28:23 --> Security Class Initialized
+DEBUG - 2018-05-29 19:28:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:28:23 --> Input Class Initialized
+INFO - 2018-05-29 19:28:23 --> Language Class Initialized
+INFO - 2018-05-29 19:28:23 --> Loader Class Initialized
+INFO - 2018-05-29 19:28:23 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:28:23 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:28:23 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:28:23 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:28:23 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:28:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:28:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:28:23 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:28:23 --> Controller Class Initialized
+INFO - 2018-05-29 19:28:23 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:28:23 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:28:23 --> File loaded: /var/www/biblioteca/application/views/home_view.php
+INFO - 2018-05-29 19:28:23 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:28:23 --> Final output sent to browser
+DEBUG - 2018-05-29 19:28:23 --> Total execution time: 0.0022
+INFO - 2018-05-29 19:28:25 --> Config Class Initialized
+INFO - 2018-05-29 19:28:25 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:28:25 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:28:25 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:28:25 --> URI Class Initialized
+INFO - 2018-05-29 19:28:25 --> Router Class Initialized
+INFO - 2018-05-29 19:28:25 --> Output Class Initialized
+INFO - 2018-05-29 19:28:25 --> Security Class Initialized
+DEBUG - 2018-05-29 19:28:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:28:25 --> Input Class Initialized
+INFO - 2018-05-29 19:28:25 --> Language Class Initialized
+INFO - 2018-05-29 19:28:25 --> Loader Class Initialized
+INFO - 2018-05-29 19:28:25 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:28:25 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:28:25 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:28:25 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:28:25 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:28:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:28:25 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:28:25 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:28:25 --> Controller Class Initialized
+INFO - 2018-05-29 19:28:25 --> Model Class Initialized
+INFO - 2018-05-29 19:28:25 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:28:25 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:28:25 --> File loaded: /var/www/biblioteca/application/views/prestamos_view.php
+INFO - 2018-05-29 19:28:25 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:28:25 --> Final output sent to browser
+DEBUG - 2018-05-29 19:28:25 --> Total execution time: 0.0032
+INFO - 2018-05-29 19:28:48 --> Config Class Initialized
+INFO - 2018-05-29 19:28:48 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:28:48 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:28:48 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:28:48 --> URI Class Initialized
+INFO - 2018-05-29 19:28:48 --> Router Class Initialized
+INFO - 2018-05-29 19:28:48 --> Output Class Initialized
+INFO - 2018-05-29 19:28:48 --> Security Class Initialized
+DEBUG - 2018-05-29 19:28:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:28:48 --> Input Class Initialized
+INFO - 2018-05-29 19:28:48 --> Language Class Initialized
+INFO - 2018-05-29 19:28:48 --> Loader Class Initialized
+INFO - 2018-05-29 19:28:48 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:28:48 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:28:48 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:28:48 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:28:48 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:28:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:28:48 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:28:48 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:28:48 --> Controller Class Initialized
+INFO - 2018-05-29 19:28:48 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:28:48 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:28:48 --> File loaded: /var/www/biblioteca/application/views/home_view.php
+INFO - 2018-05-29 19:28:48 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:28:48 --> Final output sent to browser
+DEBUG - 2018-05-29 19:28:48 --> Total execution time: 0.0028
+INFO - 2018-05-29 19:33:00 --> Config Class Initialized
+INFO - 2018-05-29 19:33:00 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:33:00 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:33:00 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:33:00 --> URI Class Initialized
+INFO - 2018-05-29 19:33:00 --> Router Class Initialized
+INFO - 2018-05-29 19:33:00 --> Output Class Initialized
+INFO - 2018-05-29 19:33:00 --> Security Class Initialized
+DEBUG - 2018-05-29 19:33:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:33:00 --> Input Class Initialized
+INFO - 2018-05-29 19:33:00 --> Language Class Initialized
+INFO - 2018-05-29 19:33:00 --> Loader Class Initialized
+INFO - 2018-05-29 19:33:00 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:33:00 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:33:00 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:33:00 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:33:00 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:33:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:33:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:33:00 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:33:00 --> Controller Class Initialized
+INFO - 2018-05-29 19:33:00 --> Model Class Initialized
+INFO - 2018-05-29 19:33:00 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:33:00 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:33:00 --> File loaded: /var/www/biblioteca/application/views/autores_view.php
+INFO - 2018-05-29 19:33:00 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:33:00 --> Final output sent to browser
+DEBUG - 2018-05-29 19:33:00 --> Total execution time: 0.0038
+INFO - 2018-05-29 19:33:22 --> Config Class Initialized
+INFO - 2018-05-29 19:33:22 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:33:22 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:33:22 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:33:22 --> URI Class Initialized
+INFO - 2018-05-29 19:33:22 --> Router Class Initialized
+INFO - 2018-05-29 19:33:22 --> Output Class Initialized
+INFO - 2018-05-29 19:33:22 --> Security Class Initialized
+DEBUG - 2018-05-29 19:33:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:33:22 --> Input Class Initialized
+INFO - 2018-05-29 19:33:22 --> Language Class Initialized
+INFO - 2018-05-29 19:33:22 --> Loader Class Initialized
+INFO - 2018-05-29 19:33:22 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:33:22 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:33:22 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:33:22 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:33:22 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:33:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:33:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:33:22 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:33:22 --> Controller Class Initialized
+INFO - 2018-05-29 19:33:22 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:33:22 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:33:22 --> File loaded: /var/www/biblioteca/application/views/home_view.php
+INFO - 2018-05-29 19:33:22 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:33:22 --> Final output sent to browser
+DEBUG - 2018-05-29 19:33:22 --> Total execution time: 0.0029
+INFO - 2018-05-29 19:33:27 --> Config Class Initialized
+INFO - 2018-05-29 19:33:27 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:33:27 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:33:27 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:33:27 --> URI Class Initialized
+INFO - 2018-05-29 19:33:27 --> Router Class Initialized
+INFO - 2018-05-29 19:33:27 --> Output Class Initialized
+INFO - 2018-05-29 19:33:27 --> Security Class Initialized
+DEBUG - 2018-05-29 19:33:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:33:27 --> Input Class Initialized
+INFO - 2018-05-29 19:33:27 --> Language Class Initialized
+INFO - 2018-05-29 19:33:27 --> Loader Class Initialized
+INFO - 2018-05-29 19:33:27 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:33:27 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:33:27 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:33:27 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:33:27 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:33:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:33:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:33:27 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:33:27 --> Controller Class Initialized
+INFO - 2018-05-29 19:33:27 --> Model Class Initialized
+INFO - 2018-05-29 19:33:27 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:33:27 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+ERROR - 2018-05-29 19:33:27 --> Severity: Notice --> Undefined index: nombre /var/www/biblioteca/application/views/Materiales_view.php 77
+INFO - 2018-05-29 19:33:27 --> File loaded: /var/www/biblioteca/application/views/Materiales_view.php
+INFO - 2018-05-29 19:33:27 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:33:27 --> Final output sent to browser
+DEBUG - 2018-05-29 19:33:27 --> Total execution time: 0.0058
+INFO - 2018-05-29 19:34:04 --> Config Class Initialized
+INFO - 2018-05-29 19:34:04 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:34:04 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:34:04 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:34:04 --> URI Class Initialized
+INFO - 2018-05-29 19:34:04 --> Router Class Initialized
+INFO - 2018-05-29 19:34:04 --> Output Class Initialized
+INFO - 2018-05-29 19:34:04 --> Security Class Initialized
+DEBUG - 2018-05-29 19:34:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:34:04 --> Input Class Initialized
+INFO - 2018-05-29 19:34:04 --> Language Class Initialized
+INFO - 2018-05-29 19:34:04 --> Loader Class Initialized
+INFO - 2018-05-29 19:34:04 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:34:04 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:34:04 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:34:04 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:34:04 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:34:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:34:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:34:04 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:34:04 --> Controller Class Initialized
+INFO - 2018-05-29 19:34:04 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:34:04 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:34:04 --> File loaded: /var/www/biblioteca/application/views/home_view.php
+INFO - 2018-05-29 19:34:04 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:34:04 --> Final output sent to browser
+DEBUG - 2018-05-29 19:34:04 --> Total execution time: 0.0028
+INFO - 2018-05-29 19:34:06 --> Config Class Initialized
+INFO - 2018-05-29 19:34:06 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:34:06 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:34:06 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:34:06 --> URI Class Initialized
+INFO - 2018-05-29 19:34:06 --> Router Class Initialized
+INFO - 2018-05-29 19:34:06 --> Output Class Initialized
+INFO - 2018-05-29 19:34:06 --> Security Class Initialized
+DEBUG - 2018-05-29 19:34:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:34:06 --> Input Class Initialized
+INFO - 2018-05-29 19:34:06 --> Language Class Initialized
+INFO - 2018-05-29 19:34:06 --> Loader Class Initialized
+INFO - 2018-05-29 19:34:06 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:34:06 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:34:06 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:34:06 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:34:06 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:34:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:34:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:34:06 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:34:06 --> Controller Class Initialized
+INFO - 2018-05-29 19:34:06 --> Model Class Initialized
+INFO - 2018-05-29 19:34:06 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:34:06 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:34:06 --> File loaded: /var/www/biblioteca/application/views/prestamos_view.php
+INFO - 2018-05-29 19:34:06 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:34:06 --> Final output sent to browser
+DEBUG - 2018-05-29 19:34:06 --> Total execution time: 0.0034
+INFO - 2018-05-29 19:34:30 --> Config Class Initialized
+INFO - 2018-05-29 19:34:30 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:34:30 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:34:30 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:34:30 --> URI Class Initialized
+INFO - 2018-05-29 19:34:30 --> Router Class Initialized
+INFO - 2018-05-29 19:34:30 --> Output Class Initialized
+INFO - 2018-05-29 19:34:30 --> Security Class Initialized
+DEBUG - 2018-05-29 19:34:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:34:30 --> Input Class Initialized
+INFO - 2018-05-29 19:34:30 --> Language Class Initialized
+INFO - 2018-05-29 19:34:30 --> Loader Class Initialized
+INFO - 2018-05-29 19:34:30 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:34:30 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:34:30 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:34:30 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:34:30 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:34:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:34:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:34:30 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:34:30 --> Controller Class Initialized
+INFO - 2018-05-29 19:34:30 --> Model Class Initialized
+INFO - 2018-05-29 19:34:30 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:34:30 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:34:30 --> File loaded: /var/www/biblioteca/application/views/reservas_view.php
+INFO - 2018-05-29 19:34:30 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:34:30 --> Final output sent to browser
+DEBUG - 2018-05-29 19:34:30 --> Total execution time: 0.0025
+INFO - 2018-05-29 19:41:08 --> Config Class Initialized
+INFO - 2018-05-29 19:41:08 --> Hooks Class Initialized
+DEBUG - 2018-05-29 19:41:08 --> UTF-8 Support Enabled
+INFO - 2018-05-29 19:41:08 --> Utf8 Class Initialized
+INFO - 2018-05-29 19:41:08 --> URI Class Initialized
+INFO - 2018-05-29 19:41:08 --> Router Class Initialized
+INFO - 2018-05-29 19:41:08 --> Output Class Initialized
+INFO - 2018-05-29 19:41:08 --> Security Class Initialized
+DEBUG - 2018-05-29 19:41:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 19:41:08 --> Input Class Initialized
+INFO - 2018-05-29 19:41:08 --> Language Class Initialized
+INFO - 2018-05-29 19:41:08 --> Loader Class Initialized
+INFO - 2018-05-29 19:41:08 --> Helper loaded: url_helper
+INFO - 2018-05-29 19:41:08 --> Helper loaded: form_helper
+INFO - 2018-05-29 19:41:08 --> Helper loaded: file_helper
+INFO - 2018-05-29 19:41:08 --> Helper loaded: security_helper
+INFO - 2018-05-29 19:41:08 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 19:41:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 19:41:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 19:41:08 --> Form Validation Class Initialized
+INFO - 2018-05-29 19:41:08 --> Controller Class Initialized
+INFO - 2018-05-29 19:41:08 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 19:41:08 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 19:41:08 --> File loaded: /var/www/biblioteca/application/views/home_view.php
+INFO - 2018-05-29 19:41:08 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 19:41:08 --> Final output sent to browser
+DEBUG - 2018-05-29 19:41:08 --> Total execution time: 0.0024
+INFO - 2018-05-29 20:13:28 --> Config Class Initialized
+INFO - 2018-05-29 20:13:28 --> Hooks Class Initialized
+DEBUG - 2018-05-29 20:13:28 --> UTF-8 Support Enabled
+INFO - 2018-05-29 20:13:28 --> Utf8 Class Initialized
+INFO - 2018-05-29 20:13:28 --> URI Class Initialized
+INFO - 2018-05-29 20:13:28 --> Router Class Initialized
+INFO - 2018-05-29 20:13:28 --> Output Class Initialized
+INFO - 2018-05-29 20:13:28 --> Security Class Initialized
+DEBUG - 2018-05-29 20:13:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 20:13:28 --> Input Class Initialized
+INFO - 2018-05-29 20:13:28 --> Language Class Initialized
+INFO - 2018-05-29 20:13:28 --> Loader Class Initialized
+INFO - 2018-05-29 20:13:28 --> Helper loaded: url_helper
+INFO - 2018-05-29 20:13:28 --> Helper loaded: form_helper
+INFO - 2018-05-29 20:13:28 --> Helper loaded: file_helper
+INFO - 2018-05-29 20:13:28 --> Helper loaded: security_helper
+INFO - 2018-05-29 20:13:28 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 20:13:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 20:13:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 20:13:29 --> Form Validation Class Initialized
+INFO - 2018-05-29 20:13:29 --> Controller Class Initialized
+INFO - 2018-05-29 20:13:29 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 20:13:29 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 20:13:29 --> File loaded: /var/www/biblioteca/application/views/home_view.php
+INFO - 2018-05-29 20:13:29 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 20:13:29 --> Final output sent to browser
+DEBUG - 2018-05-29 20:13:29 --> Total execution time: 0.1532
+INFO - 2018-05-29 20:13:29 --> Config Class Initialized
+INFO - 2018-05-29 20:13:29 --> Hooks Class Initialized
+DEBUG - 2018-05-29 20:13:29 --> UTF-8 Support Enabled
+INFO - 2018-05-29 20:13:29 --> Utf8 Class Initialized
+INFO - 2018-05-29 20:13:29 --> URI Class Initialized
+INFO - 2018-05-29 20:13:29 --> Router Class Initialized
+INFO - 2018-05-29 20:13:29 --> Output Class Initialized
+INFO - 2018-05-29 20:13:29 --> Security Class Initialized
+DEBUG - 2018-05-29 20:13:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-05-29 20:13:29 --> Input Class Initialized
+INFO - 2018-05-29 20:13:29 --> Language Class Initialized
+INFO - 2018-05-29 20:13:29 --> Loader Class Initialized
+INFO - 2018-05-29 20:13:29 --> Helper loaded: url_helper
+INFO - 2018-05-29 20:13:29 --> Helper loaded: form_helper
+INFO - 2018-05-29 20:13:29 --> Helper loaded: file_helper
+INFO - 2018-05-29 20:13:29 --> Helper loaded: security_helper
+INFO - 2018-05-29 20:13:29 --> Database Driver Class Initialized
+DEBUG - 2018-05-29 20:13:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-05-29 20:13:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-05-29 20:13:29 --> Form Validation Class Initialized
+INFO - 2018-05-29 20:13:29 --> Controller Class Initialized
+INFO - 2018-05-29 20:13:29 --> File loaded: /var/www/biblioteca/application/views/header.php
+INFO - 2018-05-29 20:13:29 --> File loaded: /var/www/biblioteca/application/views/navbar_view.php
+INFO - 2018-05-29 20:13:29 --> File loaded: /var/www/biblioteca/application/views/home_view.php
+INFO - 2018-05-29 20:13:29 --> File loaded: /var/www/biblioteca/application/views/footer.php
+INFO - 2018-05-29 20:13:29 --> Final output sent to browser
+DEBUG - 2018-05-29 20:13:29 --> Total execution time: 0.0164

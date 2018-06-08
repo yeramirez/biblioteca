@@ -74,7 +74,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                               	<option value="">Seleccionar</option>
                                   <?php
                                   foreach($datos as $autor) {
-                                      echo '<option value="'.$autor['id_autores'].'">'.$autor['nombre'] ." ". $autor['apellido'].'</option>';
+                                      echo '<option value="'.$autor['id_autores'].'">'.$autor['nombre_au'] ." ". $autor['apellido'].'</option>';
                                   }
                                   ?>  
 

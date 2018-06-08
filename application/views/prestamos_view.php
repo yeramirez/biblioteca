@@ -23,8 +23,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <option value="">Seleccionar</option>
                                       <?php
                                       foreach($datos as $tipo) {
-                                          echo '<option value="'.$tipo['id_materiales'].'">'." Nombre Material : ". $tipo['nombre']."  ,   Autor  :   ".$tipo['nombre_au']."  ".$tipo['apellido']."  ,  Tipo :  ". $tipo['tipo_material']." ,  Precio :  ". $tipo['precio'].'</option>';
-                                      }
+                                          //if ($tipo['estado_p'] != 0 ){
+                                         
+                                          echo '<option value="'.$tipo['id_materiales'].'">'." Fecha Reserva : ". $tipo['fecha']."  ,   Persona  :   ".$tipo['nombres']."  ".$tipo['apellidos']."  ,  Material :  ". $tipo['nombre']."  ,  N° Reserva :  ". $tipo['id_reservas'].'</option>';
+                                          // }
+                                        }
                                       ?>  
 
                                    </select>  
@@ -55,7 +58,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <option value="">Seleccionar</option>
                                            <option value="<?php echo "$id_usuarios";?>"> <?php echo "$nombres $apellidos";?> </option>;
                                    </select>  
-                                </div>                 
+                                </div> 
+
+                                <h4 class="mb-3">Seleccióne un Codigo de Reserva</h4>
+                              <div class="form-group">
+                                  <select name="id_reservas" class="custom-select" required>
+                                    <option value="">Seleccionar</option>
+                                      <?php
+                                      foreach($datos as $tipo) {
+
+                                         
+                                          echo '<option value="'.$tipo['id_reservas'].'">'."  N° Reserva :  ". $tipo['id_reservas'].  "  ,   Persona  :   ".$tipo['nombres']."  ".$tipo['apellidos'].  '</option>';
+                                           
+                                        }
+                                      ?>  
+
+                                   </select>  
+                                </div>                  
                                                          
                                <button  type="submit" value="enviar" class="btn btn-primary"><span id="enviar" name="enviar"> Prestar</span></button>
                           </div>

@@ -23,7 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <option value="">Seleccionar</option>
                                       <?php
                                       foreach($datos as $tipo) {
+                                        if ($tipo['cantidad'] != 0 ){
                                           echo '<option value="'.$tipo['id_materiales'].'">'." Nombre Material : ". $tipo['nombre']."  ,   Autor  :   ".$tipo['nombre_au']."  ".$tipo['apellido']."  ,  Tipo :  ". $tipo['tipo_material']." ,  Precio :  ". $tipo['precio'].'</option>';
+                                        }
                                       }
                                       ?>  
 

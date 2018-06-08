@@ -53,7 +53,7 @@ class Materiales extends CI_Controller {
                         'codigo' => $codigo,
                         'nombre' => $nombre,
                         'ejemplar' => $ejemplar,
-                        'cantidad' => $ejemplar,
+                        'cantidad' => $cantidad,
                         'precio' => $precio,
                         'fecha_publicacion' => $fecha_publicacion,
                         'fecha_ingreso' => $fecha_ingreso,
@@ -63,7 +63,7 @@ class Materiales extends CI_Controller {
                         'tema_libro_id'=>$tema_libro_id
                     ); 
            $this->Ingreso_material_model->ingreso_material($data); 
-
+           redirect(base_url());
       }
 
 }
